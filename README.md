@@ -55,5 +55,7 @@ Mesmo sem conhecer o programa, essa análise revela como políticas públicas po
  **Plots 📊** 
 
 ![Imagem de Exemplo](tipos_pizza.png)
+
 ![Imagem de Exemplo](barras_bancos_top10.png)
+
 ![Imagem de Exemplo](barras_estados_top10.png)
